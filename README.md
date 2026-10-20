@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Santhiya97tech/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [2235-add-two-integers](https://github.com/Santhiya97tech/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## Memoization
 |  |
 | ------- |
